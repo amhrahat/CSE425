@@ -22,8 +22,7 @@ The dataset used consists of plant leaf images labeled with various diseases.
 ## How to Run  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/amhrahat/CSE424.git
-
+   git clone https://github.com/amhrahat/Knowledge-Distillation-on-Plant-Leaf-Images-Using-CNNs.git
 2. Navigate to the project directory:
    ```bash 
    cd Knowledge-Distillation-on-Plant-Leaf-Images-Using-CNNs
@@ -32,7 +31,7 @@ The dataset used consists of plant leaf images labeled with various diseases.
    pip install -r requirements.txt
 4. Open the Jupyter Notebook to explore and execute the code:
    ```bash 
-   jupyter notebook 424_final_project.ipynb
+   jupyter notebook Knowledge-Distillation-on-Plant-Leaf-Images-Using-CNNs.ipynb
    
 ## Future Improvements  
 - Extend the approach to multi-class plant disease classification.  
