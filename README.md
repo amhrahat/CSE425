@@ -18,7 +18,6 @@ This project implements a **Knowledge Distillation** approach to optimize a Conv
 
 ## Dataset  
 The dataset used consists of plant leaf images labeled with various diseases.  
-[Provide the dataset link or mention its source, if applicable.]
 
 ## How to Run  
 1. Clone this repository:  
@@ -27,16 +26,18 @@ The dataset used consists of plant leaf images labeled with various diseases.
 
 2. Navigate to the project directory:
    ```bash 
-    cd Knowledge Distillation on Plant Leaf Images Using CNNs
-Install the required dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Open the Jupyter Notebook to explore and execute the code:
-bash
-Copy code
-jupyter notebook 424_final_project.ipynb
+   cd Knowledge-Distillation-on-Plant-Leaf-Images-Using-CNNs
+3. Install the required dependencies:
+   ```bash 
+   pip install -r requirements.txt
+4. Open the Jupyter Notebook to explore and execute the code:
+   ```bash 
+   jupyter notebook 424_final_project.ipynb
+   
 ## Future Improvements  
 - Extend the approach to multi-class plant disease classification.  
 - Experiment with advanced distillation techniques.  
 - Deploy the model for real-time mobile or IoT-based applications.  
+
+## Acknowledgments
+This project was completed as part of the coursework for CSE425.
